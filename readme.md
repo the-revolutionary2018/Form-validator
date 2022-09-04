@@ -1,6 +1,10 @@
-## Form Validator (Intro Project)
+## Form Validator
 
 Simple client side form validation. Check requird, length, email and password match
+
+## Website
+
+https://the-revolutionary2018.github.io/Form-validator/
 
 ## Project Specifications
 
@@ -10,4 +14,3 @@ Simple client side form validation. Check requird, length, email and password ma
 - checkLength() to check min and max length
 - checkEmail() to validate email with regex
 - checkPasswordsMatch() to match confirm password
-# Form-validator
